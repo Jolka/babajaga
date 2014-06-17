@@ -10,5 +10,6 @@ namespace DokumentyPacjenci
     {
         void a() { }
         int b = 5;
+        string = "Witaj w pliku"
     }
 }
